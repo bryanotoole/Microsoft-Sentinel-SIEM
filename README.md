@@ -7,58 +7,34 @@
 - Conducted incident investigations and responded to incidents using native SIEM tools and a ChatGPT-based SOAR playbook
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Proficincy in incident response and investigation
+- Threat identification and assessment using diverse tools and techniques
+- Proficiency in developing and implementing effective remediation measures
+- Developing and deploying automation solutions in a SIEM environment 
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Microsoft Azure
+- Microsoft Sentinel
+- ChatGPT
 
-<h2>SCreenshots:</h2>
+<h2>Screenshots:</h2>
 
 <p align="center">
 Initial Overview Page Showing High Incident: <br/>
 <img src="https://github.com/bryanotoole/Project-Pictures/blob/main/Sentinel%20Screenshot%202%20-%20High%20Incident.png"/>
 <br />
 <br />
-High Risk Incident:  <br/>
+High Risk Incident Log:  <br/>
 <img src="https://github.com/bryanotoole/Project-Pictures/blob/main/Sentinel%20High%20Incident%20Log.png"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Sentinel ChatGPT Playbook on High Incident: <br/>
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/Sentinel%20ChatGPT%20Playbook%20on%20High%20Incident.png"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ChatGPT Playbook Buildout:  <br/>
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/ChatGPT%20Playbook%20Buildout.png"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
