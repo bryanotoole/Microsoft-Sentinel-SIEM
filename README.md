@@ -22,15 +22,15 @@
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-<h2>Program walk-through:</h2>
+<h2>SCreenshots:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Initial Overview Page Showing High Incident: <br/>
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/Sentinel%20Screenshot%202%20-%20High%20Incident.png"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+High Risk Incident:  <br/>
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/Sentinel%20High%20Incident%20Log.png"/>
 <br />
 <br />
 Enter the number of passes: <br/>
