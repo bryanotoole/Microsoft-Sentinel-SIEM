@@ -8,10 +8,10 @@
 
 ### Skills Learned
 
-- Proficincy in incident response and investigation
+- Proficiency in incident response and investigation
 - Threat identification and assessment using diverse tools and techniques
 - Proficiency in developing and implementing effective remediation measures
-- Developing and deploying automation solutions in a SIEM environment 
+- Developing and deploying automation solutions in a SIEM environment
 
 ### Tools Used
 
